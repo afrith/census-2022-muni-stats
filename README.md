@@ -11,6 +11,9 @@ The files here are:
 * `person-indicators-province.csv`: Person indicators per province
 * `person-indicators-district.csv`: Person indicators per district municipality
 * `person-indicators-muni.csv`: Person indicators per local/metro municipality
+* `age-distribution-province.csv`: Broad age group distribution per province
+* `age-distribution-district.csv`: Broad age group distribution per district municipality
+* `age-distribution-muni.csv`: Broad age group distribution per local/metro municipality
 
 # Copyright
 
