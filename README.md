@@ -11,3 +11,13 @@ The files here are:
 * `person-indicators-province.csv`: Person indicators per province
 * `person-indicators-district.csv`: Person indicators per district municipality
 * `person-indicators-muni.csv`: Person indicators per local/metro municipality
+
+# Copyright
+
+Stats SA's terms are as follows:
+
+>© Statistics South Africa, 2023
+>
+>Users may apply or process this data, provided Statistics South Africa (Stats SA) is acknowledged as the original source of the data; that it is specified that the application and/or analysis is the result of the user's independent processing of the data; and that neither the basic data nor any reprocessed version or application thereof may be sold or offered for sale in any form whatsoever without prior permission from Stats SA.
+
+To the extent that I may have any copyright claim in the files in this repository, I hereby release it to the public domain.
