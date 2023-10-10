@@ -1,4 +1,4 @@
-prov_code,name,area_km2,male_pop_2011,female_pop_2011,total_pop_2011,school_attendance_5to24_2011,sex_ratio_2011,male_pop_2022,female_pop_2022,total_pop_2022,school_attendance_5to24_2022,sex_ratio_2022,growth_rate_2011_to_2022
+prov_code,name,area_km2,male_pop_2011,female_pop_2011,total_pop_2011,school_attendance_ages_5_to_24_2011,sex_ratio_2011,male_pop_2022,female_pop_2022,total_pop_2022,school_attendance_ages_5_to_24_2022,sex_ratio_2022,growth_rate_2011_to_2022
 EC,Eastern Cape,168966,3089701,3472353,6562053,2040311,89,3424042,3806162,7230204,1957613,90,0.9
 FS,Free State,129825,1328967,1416623,2745590,736002,93.8,1407824,1556588,2964412,759488,90.4,0.7
 GP,Gauteng,18178,6189875,6082388,12272263,2616530,101.8,7617952,7481470,15099422,2951490,101.8,2
