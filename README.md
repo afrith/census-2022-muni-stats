@@ -14,6 +14,9 @@ The files here are:
 * `age-distribution-province.csv`: Broad age group distribution per province
 * `age-distribution-district.csv`: Broad age group distribution per district municipality
 * `age-distribution-muni.csv`: Broad age group distribution per local/metro municipality
+* `housing-info-province.csv`: General housing information per province
+* `housing-info-district.csv`: General housing information per district municipality
+* `housing-info-muni.csv`: General housing information per local/metro municipality
 
 # Copyright
 
